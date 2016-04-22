@@ -117,7 +117,7 @@
                 <configuration>
                     <instructions>
                         <Export-Package>
-                            org.jahia.modules.render.scripting.services
+                            org.jahia.modules.render.scripting.services.*
                         </Export-Package>
                         <Jahia-Module-Type>system</Jahia-Module-Type>
                         <Jahia-Depends>default</Jahia-Depends>
